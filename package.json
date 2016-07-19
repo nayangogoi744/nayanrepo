@@ -1,0 +1,13 @@
+{
+  "name":               "cf-node-helloworld",
+  "main":               "./server",
+  "description":        "CloudFoundry Hello Cloud server in node",
+  "author":             "nayan",
+  "version":            "0.1.0",
+  "homepage":           "https://www.hellocloud.org",
+  "repository":         {"type": "git", "url": "git://github.com/nayangogoi744/nayanrepo" },
+  "dependencies":
+    {
+      "cfenv":          "1.0.x"
+    }
+  }
